@@ -440,3 +440,26 @@
 {
     border:none;
 }
+.mfp-week-view.blue .mfp-header
+{
+    background-color: #495f77;
+    color:#fff;
+}
+.mfp-week-view.blue .mfp-header a
+{
+    padding:40px;
+}
+.mfp-week-view.blue .mfp-header .mfp-header-weekdays
+{
+    height:40px;
+}
+.mfp-week-view.blue .mfp-content .mfp-wrap .mfp-bg-row .mfp-bg-cell
+{
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+.mfp-week-view.blue .mfp-bg-cell-header
+{
+    color: #fff;
+    border-color: transparent;
+}
