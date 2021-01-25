@@ -7,3 +7,6 @@ The saved event will be a different color than the original theme.
 The date will be shown above the daily time slot.
 
 ![](images/1.png)
+![](images/2.png)
+
+Source/Credit : https://youtu.be/ClbeCRG2KR4
