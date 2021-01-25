@@ -1,0 +1,49 @@
+.mfp-planner.blue
+{
+    font-family: Verdana, Arial, Sans-Serif;
+    font-size: 8pt;
+}
+.mfp-planner.blue .mfp-cue > i
+{
+    border-color: #fff;
+}
+.mfp-planner.blue .mfp-selection
+{
+    background-color:#f7e1c5;
+}
+/**
+* Popup forms styles
+*/
+.mfp-popup.blue
+{
+    color: #495f77;
+    box-shadow: 4px 4px 4px rgba(0,0,0,0.35);
+    font-family: Verdana, Arial, Sans-Serif;
+    font-size: 8pt;
+    background-color: #fff;
+    border: 2px solid #fff;
+}
+.mfp-popup.blue .mfp-popup-header
+{
+    background-color: #495f77;
+    color:#fff;
+    padding:10px;
+    text-align: center;
+    font-weight: bold;
+}
+.mfp-popup.blue a.mfp-button
+{
+    display: inline-block;
+    position: relative;
+    width: 92px;
+    height: 24px;
+    line-height: 24px;
+    color: #fff;
+    background-color: #495f77;
+    border: solid 1px #fff;
+    text-align: center;
+}
+.mfp-popup.blue a.mfp-button:hover
+{
+    background-color: #f7e1c5;
+}
